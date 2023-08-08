@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3633834223392980480
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 2
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 183163940895743842, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: _currentHumidity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734628, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: _currentHumidity
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734628, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: serializationData.Prefab
+      value: 
+      objectReference: {fileID: 3413438362268734628, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+    - target: {fileID: 3413438362268734630, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_Name
+      value: PFV_LandTileHighlands2_Dirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3413438362268734651, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3463027032623980952, guid: c109eb0ea3b6d784ebb594812f579fbc,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_AddedGameObjects: []
+  m_SourcePrefab: {fileID: 100100000, guid: c109eb0ea3b6d784ebb594812f579fbc, type: 3}
