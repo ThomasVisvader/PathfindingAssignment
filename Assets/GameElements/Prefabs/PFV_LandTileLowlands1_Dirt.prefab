@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8021572681299992193}
   - component: {fileID: 4329901777244001486}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Collider2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -62,7 +62,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7332801922235489132}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: DirtHumidityCap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -96,7 +96,7 @@ GameObject:
   - component: {fileID: 8571578723908955191}
   - component: {fileID: 5848692987857473643}
   - component: {fileID: 8214138326747400433}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_HexX_Bedrock_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -177,7 +177,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5303116179816036668}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: GrassHumidityCap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -212,7 +212,7 @@ GameObject:
   - component: {fileID: 2334485394367312791}
   - component: {fileID: 4456679647666820677}
   - component: {fileID: 1847833391969202560}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_GrassCap_Lowland_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -293,7 +293,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 931726313473085699}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Bedrock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -326,7 +326,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6708194390390746704}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: AridHumidityCap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -360,7 +360,7 @@ GameObject:
   - component: {fileID: 8234466053564098072}
   - component: {fileID: 5945567915092200311}
   - component: {fileID: 8454419336406252443}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_Hex2_Lowland_Dirt_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -441,7 +441,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2566191925514724864}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -476,7 +476,7 @@ GameObject:
   - component: {fileID: 4974145586828082767}
   - component: {fileID: 5772511816460862166}
   - component: {fileID: 9207097797002421156}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_Hex2_Lowland_Arid_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -557,7 +557,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5716580654969997029}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -592,7 +592,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7494322511704329793}
   - component: {fileID: 2906647124312160531}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Collider3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -645,7 +645,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3469384141062922684}
   - component: {fileID: 4170683230220232731}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Collider1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -699,7 +699,7 @@ GameObject:
   - component: {fileID: 4517446180945585339}
   - component: {fileID: 5929651830004196514}
   - component: {fileID: 5335288232626391084}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_Hex2_Lowland_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -780,7 +780,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7179448077214943840}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: PFV_LandTileLowlands1_Dirt
   m_TagString: Grass
   m_Icon: {fileID: 0}
@@ -812,7 +812,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8021631734297851109}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Humidity
   m_TagString: Untagged
   m_Icon: {fileID: 0}

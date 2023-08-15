@@ -4,18 +4,17 @@ using UnityEngine;
 using UnityEngine.Tilemaps;
 using Random = UnityEngine.Random;
 
-public class Script : MonoBehaviour
+public class Movement : MonoBehaviour
 {
     private IAstarAI _ai;
-    // private GridGraph _grid;
-    public Tilemap tilemap;
+    private GridGraph _gridGraph;
     private float _delta;
     private const float DelayInSeconds = 2.0f;
     
     void Start()
     {
         _ai = GetComponent<IAstarAI>();
-        transform.position = PickRandomTile();
+        _gridGraph = AstarPath.active.data.gridGraph;
         _delta = 0.0f;
     }
 
@@ -42,8 +41,17 @@ public class Script : MonoBehaviour
 
     Vector3 PickRandomTile()
     {
-        var index = Random.Range(0, tilemap.transform.childCount);
-        var randomTile = tilemap.transform.GetChild(index).gameObject;
-        return randomTile.transform.position;
+        var walkable = false;
+        int index;
+        GridNodeBase randomTile = null;
+        while (!walkable)
+        {
+            index = Random.Range(0, _gridGraph.nodes.Length);
+            randomTile = _gridGraph.nodes[index];
+            walkable = randomTile.Walkable;
+        }
+
+        return (Vector3)randomTile.position;
     }
+    
 }

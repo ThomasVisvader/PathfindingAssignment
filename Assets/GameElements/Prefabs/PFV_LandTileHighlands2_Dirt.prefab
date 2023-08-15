@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8826779380215306701}
   - component: {fileID: 4624024329210656940}
   - component: {fileID: 7204013624567905950}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_Hex3_Highland_Dirt_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -94,7 +94,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7866811185761353174}
   - component: {fileID: 4473713495807246935}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Collider1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -146,7 +146,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3865319754569550156}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: DirtHumidityCap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -179,7 +179,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7940718963304453632}
   - component: {fileID: 5788219366450815380}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Collider2
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -231,7 +231,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5351528928408956964}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Bedrock
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -265,7 +265,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5434866836132899256}
   - component: {fileID: 5036560089092817040}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Collider3
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -317,7 +317,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8673594159325989264}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Colliders
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -353,7 +353,7 @@ GameObject:
   - component: {fileID: 330103077749463106}
   - component: {fileID: 6041940854190752496}
   - component: {fileID: 2067106725171763619}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_Hex3_Highland_01 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -437,7 +437,7 @@ GameObject:
   - component: {fileID: 7597238965881338946}
   - component: {fileID: 1799939787246437793}
   - component: {fileID: 7419189743241178858}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: 3+Highland_Rocks.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -518,7 +518,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4139674049741579764}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: AridHumidityCap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -550,7 +550,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 8349992620511728465}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: PFV_LandTileHighlands2_Dirt
   m_TagString: Grass
   m_Icon: {fileID: 0}
@@ -584,7 +584,7 @@ GameObject:
   - component: {fileID: 1991803801616603657}
   - component: {fileID: 871483243107054018}
   - component: {fileID: 6442180506230461941}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_GrassCap_Highland_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -667,7 +667,7 @@ GameObject:
   - component: {fileID: 7578723002814757701}
   - component: {fileID: 6976659260801614853}
   - component: {fileID: 7235005987466197354}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: Height_3_LP00.001
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -750,7 +750,7 @@ GameObject:
   - component: {fileID: 2890371593717150703}
   - component: {fileID: 7198261950612638559}
   - component: {fileID: 4406254185556757294}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_HexX_Bedrock_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -831,7 +831,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4516149590713858347}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: MSH_Hex3_Highland_Arid_01
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -864,7 +864,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 293520851866989941}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: GrassHumidityCap
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -897,7 +897,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6774917175099850836}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Visuals
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -930,7 +930,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 607214167070179005}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Humidity
   m_TagString: Untagged
   m_Icon: {fileID: 0}
